@@ -1,0 +1,13 @@
+Dados do aluno
+
+-Primeiro Nome: Darlei
+-Profissão: Analista de Qualidade
+-Cidade: Julio de Castilhos/RS
+-O que faz nas horas vagas: Estudo e Jogos Online
+-Feedback sobre o curso Qualidade de Software:
+    Completo e de fácil compreensão
+-Feedback sobre a plataforma de estudo da EBAC:
+    Intuitiva
+Obrigado!!!
+
+
